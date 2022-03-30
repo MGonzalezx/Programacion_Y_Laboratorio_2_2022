@@ -1,0 +1,16 @@
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\Ejercicio_7.exe
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\Ejercicio_7.deps.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\Ejercicio_7.runtimeconfig.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\Ejercicio_7.runtimeconfig.dev.json
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\Ejercicio_7.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\ref\Ejercicio_7.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\bin\Debug\net5.0\Ejercicio_7.pdb
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.csproj.AssemblyReference.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.AssemblyInfo.cs
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\ref\Ejercicio_7.dll
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.pdb
+C:\Users\RocioGonzalez\Desktop\Porg y Lab 2_2022\Programacion_Y_Laboratorio_2_2022\Ejercicios\Introducción a .NET y C#\Ejercicio_7\Ejercicio_7\obj\Debug\net5.0\Ejercicio_7.genruntimeconfig.cache
